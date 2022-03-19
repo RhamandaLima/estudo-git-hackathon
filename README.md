@@ -9,3 +9,7 @@ Teste sem conflitos.
   <p>Gerando conflitos com git 
     (<b>merge</b>).</p>  
 </div>
+
+<div>
+teste stash2
+</div>
