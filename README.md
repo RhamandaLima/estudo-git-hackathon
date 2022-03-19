@@ -7,6 +7,4 @@ Repositório para testes e desafios do treinamento em git para o 10º Hackathon 
 <div>
   <p>Gerandoconflitos com git 
     (<b>merge</b>).</p>  
-    <p>Gerandoconflitos com git 
-    (<b>merge</b>).</p>  
 </div>
