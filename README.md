@@ -2,8 +2,7 @@
 
 <p>
 Repositório para testes e desafios do treinamento em git para o 10º Hackathon Decola.
-Teste sem conflitos.
-Rhamanda conflitando. 
+Teste sem conflitos e sem usar stash.
 </p>
 
 <div>
